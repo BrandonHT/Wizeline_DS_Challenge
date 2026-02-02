@@ -1,0 +1,13 @@
+name: Wizeline_challenge
+channels:
+  - conda-forge
+dependencies:
+  - polars
+  - seaborn
+  - xgboost
+  - scikit-learn
+  - jupyter
+  - notebook
+  - pyarrow
+  - tabulate
+  
